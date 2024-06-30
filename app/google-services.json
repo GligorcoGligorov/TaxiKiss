@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697891921396",
+    "project_id": "taxi-kiss",
+    "storage_bucket": "taxi-kiss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697891921396:android:ecf44d7b0449f8dc112da1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdbvWDtv3wh0lb8IiOURCYDrcwzwYlMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
