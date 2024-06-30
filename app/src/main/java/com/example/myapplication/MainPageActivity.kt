@@ -429,7 +429,7 @@ class MainPageActivity : AppCompatActivity(),OnMapReadyCallback {
     }
 
     private fun updateMapWithNewLocation(location: Location) {
-        newLatLng = LatLng(location.latitude+4.4600078, location.longitude+144.5885779)
+        newLatLng = LatLng(location.latitude, location.longitude)
 
         mMap.clear() // Clear previous markers
 
